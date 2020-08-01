@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "nome": "caique ",
+    "sobrenome": "moraes",
+    "idade": "26",
+    "hobbies": [
+      "livros",
+      "atividades físicas",
+      "músicas",
+      "estudar"
+    ],
+    "profissao": "Programador ",
+    "sexo": "M"
+  },
+  {
+    "id": 2,
+    "nome": "Isabella",
+    "sobrenome": "Moraes ",
+    "idade": 22,
+    "hobbies": [
+      "jardinagem",
+      "livros",
+      "passear"
+    ],
+    "profissao": " arquiteta",
+    "sexo": "f"
+  },
+  {
+    "id": 3,
+    "nome": "Thomas",
+    "sobrenome": "Moraes",
+    "idade": 20,
+    "hobbies": [
+      "estudar",
+      "futebol",
+      "video-game"
+    ],
+    "profissao": "programador",
+    "sexo": "M"
+  },
+  {
+    "id": 4,
+    "nome": "Igor",
+    "sobrenome": "moraes",
+    "idade": "14",
+    "hobbies": [
+      "video-game",
+      "atividades físicas"
+    ],
+    "profissao": "",
+    "sexo": "m"
+  }
+]

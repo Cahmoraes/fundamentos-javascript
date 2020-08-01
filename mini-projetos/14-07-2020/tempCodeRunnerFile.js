@@ -1,0 +1,1 @@
+.then(funcoes.cirarPessoas

@@ -1,0 +1,11 @@
+const path = require('path')
+const fn = require('./function')()
+const rootDir = path.resolve(__dirname, '../shared/')
+
+fn.readDir(rootDir)
+  .then(fn.parseDir(rootDir))
+  .then(fn.readFiles)
+  .then(fn.toObject)
+  .then(fn.criarPessoas)
+  .then(console.log)
+  .catch(console.log)
