@@ -1,0 +1,1 @@
+module.exports = (elementA, elementB) => elementA === elementB
